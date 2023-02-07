@@ -2,4 +2,6 @@
 /node_modules
 /.vscode
 sample.png
+package.json
+package-lock.json
 
