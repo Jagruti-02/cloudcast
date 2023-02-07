@@ -1,0 +1,23 @@
+{
+  "name": "cloudcast",
+  "version": "1.0.0",
+  "description": "This app provides real-time weather forecasts for cities around the world.",
+  "main": "style.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jagruti-02/cloudcast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jagruti-02/cloudcast/issues"
+  },
+  "homepage": "https://github.com/Jagruti-02/cloudcast#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
