@@ -8,4 +8,5 @@ This app provides real-time weather forecasts for cities around the world.
 - User-friendly interface
 - Weather API: OpenWeatherMap
 
-Link to the website:
+Sample of the website:
+image.png
